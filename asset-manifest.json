@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rs-think/static/css/main.9a68b33e.chunk.css",
+    "main.js": "/rs-think/static/js/main.88896c0f.chunk.js",
+    "main.js.map": "/rs-think/static/js/main.88896c0f.chunk.js.map",
+    "runtime-main.js": "/rs-think/static/js/runtime-main.3b7f1e50.js",
+    "runtime-main.js.map": "/rs-think/static/js/runtime-main.3b7f1e50.js.map",
+    "static/js/2.1937c725.chunk.js": "/rs-think/static/js/2.1937c725.chunk.js",
+    "static/js/2.1937c725.chunk.js.map": "/rs-think/static/js/2.1937c725.chunk.js.map",
+    "index.html": "/rs-think/index.html",
+    "precache-manifest.7197a621dcdfe11b53e5bc3de8111155.js": "/rs-think/precache-manifest.7197a621dcdfe11b53e5bc3de8111155.js",
+    "service-worker.js": "/rs-think/service-worker.js",
+    "static/css/main.9a68b33e.chunk.css.map": "/rs-think/static/css/main.9a68b33e.chunk.css.map",
+    "static/js/2.1937c725.chunk.js.LICENSE": "/rs-think/static/js/2.1937c725.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b7f1e50.js",
+    "static/js/2.1937c725.chunk.js",
+    "static/css/main.9a68b33e.chunk.css",
+    "static/js/main.88896c0f.chunk.js"
+  ]
+}
